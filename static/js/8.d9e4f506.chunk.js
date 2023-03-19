@@ -1,2 +1,0 @@
-(this["webpackJsonp@filedogswap/interface"]=this["webpackJsonp@filedogswap/interface"]||[]).push([[8],{639:function(n,i){},640:function(n,i){},666:function(n,i){},667:function(n,i){},673:function(n,i){},935:function(n,i){}}]);
-//# sourceMappingURL=8.d9e4f506.chunk.js.map
