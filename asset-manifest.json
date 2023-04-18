@@ -3,20 +3,20 @@
     "static/js/0.60eecc78.chunk.js": "./static/js/0.60eecc78.chunk.js",
     "static/js/1.252a7afb.chunk.js": "./static/js/1.252a7afb.chunk.js",
     "main.css": "./static/css/main.3594b8df.chunk.css",
-    "main.js": "./static/js/main.7cbaa5ee.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.366ed6bf.js",
+    "main.js": "./static/js/main.71e25178.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.caaf2d58.js",
     "static/css/4.753719c1.chunk.css": "./static/css/4.753719c1.chunk.css",
-    "static/js/4.6ac02ee5.chunk.js": "./static/js/4.6ac02ee5.chunk.js",
-    "static/js/5.5d8724ba.chunk.js": "./static/js/5.5d8724ba.chunk.js",
-    "static/js/6.6c3bc774.chunk.js": "./static/js/6.6c3bc774.chunk.js",
+    "static/js/4.c9a8f7db.chunk.js": "./static/js/4.c9a8f7db.chunk.js",
+    "static/js/5.87722e73.chunk.js": "./static/js/5.87722e73.chunk.js",
+    "static/js/6.3bc95a13.chunk.js": "./static/js/6.3bc95a13.chunk.js",
     "static/js/7.8f4855c2.chunk.js": "./static/js/7.8f4855c2.chunk.js",
     "static/js/8.ce3b2477.chunk.js": "./static/js/8.ce3b2477.chunk.js",
     "static/js/9.a11e4df0.chunk.js": "./static/js/9.a11e4df0.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.6d51e2b60bc59fc388c9b5cf76bd2614.js": "./precache-manifest.6d51e2b60bc59fc388c9b5cf76bd2614.js",
+    "precache-manifest.d36c3a156e5cf8e5d99480d0c44d02c9.js": "./precache-manifest.d36c3a156e5cf8e5d99480d0c44d02c9.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/4.6ac02ee5.chunk.js.LICENSE.txt": "./static/js/4.6ac02ee5.chunk.js.LICENSE.txt",
-    "static/js/5.5d8724ba.chunk.js.LICENSE.txt": "./static/js/5.5d8724ba.chunk.js.LICENSE.txt",
+    "static/js/4.c9a8f7db.chunk.js.LICENSE.txt": "./static/js/4.c9a8f7db.chunk.js.LICENSE.txt",
+    "static/js/5.87722e73.chunk.js.LICENSE.txt": "./static/js/5.87722e73.chunk.js.LICENSE.txt",
     "static/js/9.a11e4df0.chunk.js.LICENSE.txt": "./static/js/9.a11e4df0.chunk.js.LICENSE.txt",
     "static/media/inter.css": "./static/media/Inter.var.4b976905.woff2",
     "static/media/index.css": "./static/media/Ubuntu-Regular.84ea7c5c.ttf",
@@ -58,10 +58,10 @@
     "static/media/x.svg": "./static/media/x.5b8e2186.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.366ed6bf.js",
+    "static/js/runtime-main.caaf2d58.js",
     "static/css/4.753719c1.chunk.css",
-    "static/js/4.6ac02ee5.chunk.js",
+    "static/js/4.c9a8f7db.chunk.js",
     "static/css/main.3594b8df.chunk.css",
-    "static/js/main.7cbaa5ee.chunk.js"
+    "static/js/main.71e25178.chunk.js"
   ]
 }
