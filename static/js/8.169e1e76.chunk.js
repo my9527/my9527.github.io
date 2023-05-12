@@ -1,1 +1,0 @@
-(this["webpackJsonp@filedogswap/interface"]=this["webpackJsonp@filedogswap/interface"]||[]).push([[8],{697:function(n,i){},698:function(n,i){},724:function(n,i){},725:function(n,i){},731:function(n,i){},993:function(n,i){}}]);

@@ -5,6 +5,25 @@ object-assign
 */
 
 /*!
+	Copyright (c) 2018 Jed Watson.
+	Licensed under the MIT License (MIT), see
+	http://jedwatson.github.io/classnames
+*/
+
+/*!
+  Copyright (c) 2017 Jed Watson.
+  Licensed under the MIT License (MIT), see
+  http://jedwatson.github.io/classnames
+*/
+
+/*!
+ * @license
+ * TradingView Lightweight Charts™ v4.0.1
+ * Copyright (c) 2023 TradingView, Inc.
+ * Licensed under Apache License 2.0 https://www.apache.org/licenses/LICENSE-2.0
+ */
+
+/*!
  * The buffer module from node.js, for the browser.
  *
  * @author   Feross Aboukhadijeh <http://feross.org>
